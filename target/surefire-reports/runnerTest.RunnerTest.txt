@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: runnerTest.RunnerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 23.578 s <<< FAILURE! - in runnerTest.RunnerTest
+Flipkart moblile order validation test(Flipkart home page)  Time elapsed: 22.113 s  <<< ERROR!
+java.lang.ArithmeticException: / by zero
+
