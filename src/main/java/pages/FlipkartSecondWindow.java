@@ -59,6 +59,7 @@ public class FlipkartSecondWindow extends FlipkartFirstWindow {
 		check.click();
 		WebElement addtocart = wd.findElement(By.xpath("//button[text()='ADD TO CART']"));
 		addtocart.click();
+		int i = 1/0;
 	}
 
 	public static void mobile_details_should_be_validated_and_compared_with_previous_data() {
